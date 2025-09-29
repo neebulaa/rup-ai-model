@@ -1,0 +1,12 @@
+python => v3.10.18
+tensorflow => v2.15.0
+keras => v2.15.0
+tf_keras => v2.15.1
+numpy => v1.26.4
+pillow => v11.3.0
+flask => v3.1.0
+flask_cors => v6.0.1
+pandas => v2.2.1
+seaborn => v0.13.2
+matplotlib => v3.8.3
+scikit-learn => v1.4.1.post1
